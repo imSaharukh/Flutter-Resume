@@ -3,7 +3,7 @@ Resume Web page in Flutter
 
 
 ## Demo
-[Link](http://thanhnamitit.surge.sh/#/) 
+[Link](https://imsaharukh.github.io/Flutter-Resume-page/index.html#/) 
 
 ## Screenshot
 ![Example1](screenshot/sc.png)
