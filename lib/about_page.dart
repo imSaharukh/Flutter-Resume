@@ -6,7 +6,7 @@ import 'base_page.dart';
 import 'data.dart';
 
 const INTRODUCE =
-    "I am Nam, mobile developer from Ha Noi, Viet Nam. I have rich experience in Android development, also I am good at Flutter.";
+    "I am Nam, mobile developer from Dhaka,Bangladesh. I have rich experience in Android development, also I am good at Flutter.";
 
 const SKILLS = """
 Android (Both Java and Kotlin):
